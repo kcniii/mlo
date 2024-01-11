@@ -1,4 +1,12 @@
+# hw3/Dockerfile
+# hw3/requirements.txt
+# hw3/app
+
 hw8/data/
 hw8/solution.ipynb
 hw10/data/
+<<<<<<< HEAD
 hw11/data/
+=======
+
+>>>>>>> e97d331c8efb4699ea3f1c3592945baaf0b7160a
